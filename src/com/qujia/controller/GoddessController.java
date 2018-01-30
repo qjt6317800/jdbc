@@ -37,7 +37,7 @@ public class GoddessController {
 		//根据ID查询单个人信息
 		Goddess g2=g.get(4);
 		System.out.println(g2.toString());
-		
+		//njjjjjjjjjjjm
 		
 	}
 }
